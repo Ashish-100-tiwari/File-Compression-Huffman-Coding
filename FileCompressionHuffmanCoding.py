@@ -1,4 +1,4 @@
-
+#file compression using huffman coding algorithm
 import heapq
 import os
 class BinaryTree:
